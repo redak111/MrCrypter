@@ -1,0 +1,4 @@
+colorama
+haslib
+Crypto
+pathlib
